@@ -1,0 +1,2 @@
+The aim of this project is to understand the emotion based on the face expressions, the dataset is taken from Kaggle, which has 7 different expressions : happy, sad, fear, angry, disguist, neutral, surprise. The model used is CNN.
+ 
